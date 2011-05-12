@@ -1,0 +1,8 @@
+name: WolfTrader
+main: com.fuckingwin.bukkit.rakiru.wolftrader.WolfTraderPlugin
+version: 0.1.1
+description: Give your wolves to other players
+commands:
+  slap:
+    description: Transfer a nearby wolf to another player
+    usage: "Usage: /tradewolf <username> to give one of your nearby wolves to that player"
